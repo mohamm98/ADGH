@@ -1,9 +1,9 @@
 {
-    "name": "ميوزك كوبرا",
+    "name": "ميوزك",
     "logo": "https://telegra.ph/file/8dd5ef5b8ea6b2f4dbe95.jpg",
     "description": "افضل سورسات التليكرام",
     "keywords": ["tgmusicbot", "voice chat", "telegram"],
-    "repository": "https://github.com/ERTWF/ASD",
+    "repository": "https://github.com/mohamm98/ADGH",
     "stack": "container",
     "env": {
         "API_HASH": {
@@ -17,12 +17,12 @@
         "ASSISTANT_USERNAME": {
             "description": "معرف حساب المساعد بدون '@')",
             "required": true,
-            "value": "ABNADLlB"
+            "value": ""
         },
         "START_PIC": {
             "description": "صورة البوت مطلوبة",
             "required": true,
-            "value": "https://telegra.ph/file/254c862a85ccf3b86ee09.mp4"
+            "value": ""
         },
         "BOT_TOKEN": {
             "description": "توكن بوتك حط",
@@ -36,12 +36,12 @@
         "PROFILE_CHANNEL": {
             "description": "رابط قناتك خلي .",
             "required": true,
-            "value": "https://t.me/VFF35"
+            "value": "https://t.me/iih5i"
         },
         "OWNER_USERNAME": {
             "description": "معرفك بدون@ كمطور",
             "required": true,
-            "value": "QABNADLIB"
+            "value": ""
         },
         "STRING_SESSION": {
             "description": "كود بايروجرام",
@@ -50,18 +50,18 @@
         "SUDO_USERS": {
             "description": "ايدي المطورين حط ايديك كمطور",
             "required": true,
-            "value": "1939538780"
+            "value": "474380639"
             
         },
         "SUPPORT_GROUP": {
             "description": "رابط كروب الدعم حطه",
             "required": true,
-            "value": "https://t.me/faqek"
+            "value": "https://t.me/F9954"
         },
         "UPDATES_CHANNEL": {
             "description": "رابط قناتك الثانيه ازا ماعندك غير وحده حطو نفس يلي فوك",
             "required": true,
-            "value": "https://t.me/VFF34"
+            "value": "https://t.me/iih5i"
         }
     },
     "buildpacks": [
